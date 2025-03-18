@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 https://www.loom.com/share/36ce8f3aa3e24cf4b8c9154fa88699b1?sid=0353c03a-7617-4036-974a-8e0ba78d71a4
-
+https://imgur.com/a/Yc3Z1zb
 
 ## Notes
 
